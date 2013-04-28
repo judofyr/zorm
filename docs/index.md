@@ -27,16 +27,3 @@ should work together so major changes are happening all the time.
 The project is [hosted on GitHub](https://github.com/judofyr/zorm) and
 available under the [MIT license](http://github.com/judofyr/zorm/blob/master/LICENSE).
 
-## Getting Started
-
-If you're just getting started you might consider reading the
-[**Motivation**](#motivation) section below. It describes some of the use
-cases and problems that Zorm tries to solve.
-
-[**Concepts**](#concepts) is an overview over the concepts and terminology in Zorm. This
-gives you a bird's-eye view over how Zorm is used and how the different parts
-fit together.
-
-As we're still in alpha, the **Tutorial** and **API reference** isn't done
-yet.
-
